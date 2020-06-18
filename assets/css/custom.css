@@ -3,3 +3,12 @@
     transform: translateX(15px);
     text-decoration: none;
 }
+
+small.copyright:hover {
+    color: #58677c;
+}
+
+.resume-skill-item span:hover {
+    color: #fff;
+    background-color: #328998;
+}
