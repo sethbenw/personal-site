@@ -1,0 +1,5 @@
+.secondary-info a {display:block;transition: .5s;}
+.secondary-info a:hover {
+    transform: translateX(15px);
+    text-decoration: none;
+}
