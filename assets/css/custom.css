@@ -12,3 +12,9 @@ small.copyright:hover {
     color: #fff;
     background-color: #328998;
 }
+
+#portfolio li {display:block;transition: .5s;}
+#portfolio li:hover {
+    transform: translateX(15px);
+    text-decoration: none;
+}
